@@ -25,4 +25,22 @@
         tools:layout_editor_absoluteX="146dp"
         tools:layout_editor_absoluteY="274dp"/>
 
+    <Button
+        android:id="@+id/btn_feature_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="feature2"
+        android:text="功能2"
+        tools:layout_editor_absoluteX="147dp"
+        tools:layout_editor_absoluteY="322dp"/>
+
+    <Button
+        android:id="@+id/btn_feature_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="feature3"
+        android:text="功能3"
+        tools:layout_editor_absoluteX="147dp"
+        tools:layout_editor_absoluteY="370dp"/>
+
 </android.support.constraint.ConstraintLayout>
