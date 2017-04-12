@@ -43,4 +43,12 @@
         tools:layout_editor_absoluteX="147dp"
         tools:layout_editor_absoluteY="370dp"/>
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="343dp"
+        android:layout_height="93dp"
+        android:text="测试Android Studio下对项目进行相关git操作：create responsitory、add、commit、push，还有分支的创建New Branch、切换checkout、删除Delete以及合并Merge，回退版本操作revert、reset、rebase..."
+        tools:layout_editor_absoluteX="24dp"
+        tools:layout_editor_absoluteY="101dp"/>
+
 </android.support.constraint.ConstraintLayout>
